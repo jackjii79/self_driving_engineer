@@ -1,0 +1,12 @@
+Steps we’ve covered so far:
+
+    Camera calibration
+    Distortion correction
+    Color/gradient threshold
+    Perspective transform
+
+After doing these steps, you’ll be given two additional steps for the project:
+
+    Detect lane lines
+    Determine the lane curvature
+
